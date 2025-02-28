@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
     name='SensorProject',
     version='0.0.1',
-    author='imran',
+    author='sagar',
     author_mail='md.a@pw.live',
     install_requirements=get_requirements('requirements.txt'),
     packages=find_packages() 

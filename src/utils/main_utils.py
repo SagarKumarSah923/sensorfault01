@@ -41,7 +41,6 @@ class MainUtils:
             raise CustomException(e, sys) from e
 
 
-   
 
 
     @staticmethod
